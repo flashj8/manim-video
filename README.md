@@ -1,6 +1,6 @@
 # Mathematical Proof Visualization with Manim & Neural Voice Conversion
 
-An independent computational project combining **Python-based mathematical animation** and **deep learning-based voice conversion** to create an educational video explaining fundamental mathematical proof techniques.
+An independent computational project combining **Python-based mathematical animation** and **deep learning-based voice conversion** to create an educational video explaining fundamental mathematical proof techniques for my high school Linear Algebra project.
 
 This project explores how mathematical visualization, neural speech processing, and programming can be integrated into a single educational application.
 
